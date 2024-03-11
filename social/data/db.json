@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "July 16 11:47:39 PM",
+      "body": "Lorem sit apem horror apen diu"
+    },
+    {
+      "id": "11",
+      "title": "Sucessfully completed the react course",
+      "datetime": "February 20, 2024 10:23:55 PM",
+      "body": "Finished..well done"
+    }
+  ]
+}
